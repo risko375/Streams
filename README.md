@@ -2,7 +2,7 @@
 
 React Redux Twitch clone
 
-Demonstrates knowledge of REST API using JSON Serve for CRUD operations 
+Demonstrates knowledge of REST API using json-server for CRUD operations 
 
 Uses Reux Think middleware to handl async API requests
 
