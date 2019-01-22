@@ -1,24 +1,34 @@
 {
   "streams": [
     {
-      "title": "ded",
-      "description": "sss",
-      "id": 6
+      "title": "Stream 1",
+      "description": "Playing video games",
+      "userId": "117151188886633990592",
+      "id": 1
     },
     {
-      "title": "ded",
-      "description": "sss",
-      "id": 7
+      "title": "Stream 2",
+      "description": "Video blog ",
+      "userId": "117151188886633990592",
+      "id": 2
     },
     {
-      "title": "c",
-      "description": "c",
-      "id": 8
+      "title": "Stream 3 ",
+      "description": "Sports Stream ",
+      "userId": "117151188886633990592",
+      "id": 3
     },
     {
-      "title": "Ben",
-      "description": "king123",
-      "id": 11
+      "title": "Stream 4",
+      "description": "Coding Q & A ",
+      "userId": "117151188886633990592",
+      "id": 4
+    },
+    {
+      "title": "Stream 5 ",
+      "description": "Cooking demo",
+      "userId": "117151188886633990592",
+      "id": 5
     }
   ]
 }
